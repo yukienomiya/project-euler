@@ -1,4 +1,4 @@
-PROBLEM 28
+PROBLEM 28 - Number spiral diagonals
 Given an integer n, find the sum of the numbers placed on the two diagonals of the matrix (or spiral) 
 n*n. The matrix/spiral is formed starting with the number 1 and moving to the right in a clockwise 
 direction.
